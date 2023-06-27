@@ -11,7 +11,8 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr>
+<td valign="top" width="33%">
 
 
 
@@ -25,7 +26,8 @@
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="40%">
+</td>
+<td valign="top" width="40%">
 
 
 
@@ -46,10 +48,6 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://symfony.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" alt="Symfony" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="40%">
-
-
 
 </td></tr></table>  
 
